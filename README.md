@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I do Web stuff
 
 <!--
 **Sebkasanzew/Sebkasanzew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
