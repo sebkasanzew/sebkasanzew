@@ -1,4 +1,4 @@
-### 👋 Hi, I do Web stuff
+### 👋 Hi, I do React stuff, so basically everything that has an interface and beyond.
 
 <!--
 **Sebkasanzew/Sebkasanzew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
